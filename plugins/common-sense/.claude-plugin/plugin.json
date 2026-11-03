@@ -1,7 +1,7 @@
 {
   "name": "common-sense",
   "description": "Claude thinks like a street-smart human: it finds out before deciding, fits every choice to the thing and the people, refuses the first average idea, sets the right dose, looks after your interests, and gets the best vetted specialist skill before crafted work.",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "author": {
     "name": "AUBOS"
   },
