@@ -62,7 +62,7 @@ A fresh Claude Code (Sonnet 5.5, nothing else installed) on a Windows laptop, 2 
 - **One miss:** it names coffee shops without the herd pun, but it does not yet check whether a name is free (0/2).
 - **With a website skill already installed,** the looks barely change. Common Sense adds judgement about content and timing, and it now makes sure the website skill is used rather than skipped.
 - **The sample is small** (2 to 3 runs each, one model, judged by us), so treat these as strong early signals, not proof.
-- **These results were measured with the full edition** (the same skill and always-on note, plus the deep guides below). A test of this free edition on its own is under way, and this page will be updated with its numbers.
+- **The free edition on its own** (2.0.1, installed fresh from GitHub, tested by a separate agent) scored the same on the five rows above plus two more situations: 14 of 14, the same as the full edition. It passed the scout test 4 of 4, always using the pinned versions.
 
 ## Full edition
 The full edition adds a deep guide for each instinct: a map from feelings to colours, fonts, music, words and luxury level with worked examples; what to say first and which channel to use when emotions run high; how to beat the first idea; how much humour, warmth and urgency each reader can take; how to look after the person's interests in a negotiation; and the psychology and marketing research behind each rule, with citations. It is coming soon.

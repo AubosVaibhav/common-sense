@@ -55,6 +55,8 @@ Never swap in a newer version of a pick without vetting it again (licence, audit
 | Audits | No audit says "fail"; no risk level HIGH or CRITICAL. | `https://skills.sh/api/v1/skills/audit/<owner>/<repo>/<skill>` (no login needed): Snyk, Socket, Gen Agent Trust Hub, Runlayer, ZeroLeaks. |
 | Fit | It does the job in front of you, for this person's tools. | Its description and SKILL.md. |
 
+Using a skill as reference (reading its guidance, running nothing): read its SKILL.md in full. Installing it or running any of its scripts: read every file first, and check the SHA-256 on the downloaded file (a page-fetch tool returns a summary, so a hash can only be checked on the real file).
+
 Pick the best fit among the skills that pass, not just the most popular one. Say which you picked and why, with the numbers.
 
 ## 4. Read every file before you trust it
