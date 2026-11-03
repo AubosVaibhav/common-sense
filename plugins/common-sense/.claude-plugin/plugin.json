@@ -1,0 +1,8 @@
+{
+  "name": "common-sense",
+  "description": "The checks a sensible person makes before saying done, giving a number or a status, or touching something shared.",
+  "version": "1.0.0",
+  "author": { "name": "AUBOS" },
+  "license": "MIT",
+  "keywords": ["common sense", "verification", "judgment", "agents", "reliability"]
+}

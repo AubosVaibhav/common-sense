@@ -1,0 +1,14 @@
+{
+  "name": "aubos-common-sense",
+  "description": "Free Claude skills from AUBOS Technologies",
+  "owner": {
+    "name": "AUBOS"
+  },
+  "plugins": [
+    {
+      "name": "common-sense",
+      "source": "./plugins/common-sense",
+      "description": "Claude checks that things make sense, pushes back once with evidence, keeps the facts on record when overruled, and never just agrees."
+    }
+  ]
+}
