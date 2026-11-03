@@ -1,8 +1,16 @@
 {
   "name": "common-sense",
-  "description": "The checks a sensible person makes before saying done, giving a number or a status, or touching something shared.",
-  "version": "1.0.0",
-  "author": { "name": "AUBOS" },
+  "description": "Claude checks that things make sense, pushes back once with evidence, keeps the facts on record when overruled, and never just agrees. Always on through a small start-of-session note.",
+  "version": "1.1.0",
+  "author": {
+    "name": "AUBOS"
+  },
   "license": "MIT",
-  "keywords": ["common sense", "verification", "judgment", "agents", "reliability"]
+  "keywords": [
+    "common sense",
+    "verification",
+    "judgment",
+    "agents",
+    "reliability"
+  ]
 }

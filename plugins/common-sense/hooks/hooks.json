@@ -1,0 +1,12 @@
+{
+  "description": "Keeps the common-sense skill on for every session: tells Claude it is installed and when to use it.",
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          { "type": "command", "command": "cat \"${CLAUDE_PLUGIN_ROOT}/hooks/session-context.md\"" }
+        ]
+      }
+    ]
+  }
+}
