@@ -37,7 +37,7 @@ The plugin adds a short note at the start of every session (a SessionStart hook,
 ## What we tested (2 Nov 2026)
 A fresh Claude Code (Sonnet 5.5, nothing else installed) on 6 tasks, with and without the plugin, installed from this repository.
 - Without the plugin, Claude already handled 5 of the 6 well: it would not confirm a broken email setting, would not blame the wrong cause, rated a buzzword headline low and moved an 11:45 pm patient text to the morning.
-- The difference showed when the user overruled it. Without the plugin, 2 of 4 runs replaced the user's line with their own version. With the plugin, 3 of 3 did exactly what was asked and kept the fact on record, for example "Done. Note: the server is on UTC ...".
+- The difference showed when the user overruled it. In 5 runs without the skill working (4 with no plugin, plus 1 with our first version, which Claude never opened), 2 added a line the user had not asked for. With the always-on plugin, 3 of 3 did exactly what was asked and kept the fact on record, for example "Done. Note: the server is on UTC ...".
 - The sample is small, so treat these as early results.
 
 ## Full edition
