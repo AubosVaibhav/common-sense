@@ -1,16 +1,18 @@
 {
   "name": "common-sense",
-  "description": "Claude checks that things make sense, pushes back once with evidence, keeps the facts on record when overruled, and never just agrees. Always on through a small start-of-session note.",
-  "version": "1.1.0",
+  "description": "Claude thinks like a street-smart human: it finds out before deciding, fits every choice to the thing and the people, refuses the first average idea, sets the right dose, looks after your interests, and gets the best vetted specialist skill before crafted work.",
+  "version": "2.0.0",
   "author": {
     "name": "AUBOS"
   },
   "license": "MIT",
   "keywords": [
     "common sense",
-    "verification",
-    "judgment",
-    "agents",
-    "reliability"
+    "judgement",
+    "taste",
+    "emotions",
+    "street smart",
+    "skills",
+    "verification"
   ]
 }

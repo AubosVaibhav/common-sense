@@ -8,7 +8,7 @@
     {
       "name": "common-sense",
       "source": "./plugins/common-sense",
-      "description": "Claude checks that things make sense, pushes back once with evidence, keeps the facts on record when overruled, and never just agrees."
+      "description": "Claude thinks like a street-smart human: it finds out before deciding, fits every choice to the thing and the people, refuses the first average idea, sets the right dose, looks after your interests, and gets the best vetted specialist skill before crafted work."
     }
   ]
 }
