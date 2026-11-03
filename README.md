@@ -36,3 +36,5 @@ The full edition adds 11 more checks (honest opinions and ratings, when they are
 
 ## License
 MIT. See LICENSE.
+
+AUBOS Technologies is an independent company and is not affiliated with Anthropic. Claude and Claude Code are trademarks of Anthropic.
